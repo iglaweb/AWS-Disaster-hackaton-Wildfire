@@ -15,13 +15,13 @@ The notebooks can be used to build and train an ML model that can predict wildfi
 This repo has the following structure:
 * **Wildfire architecture.pdf**: an scheme of the project architecture. It gives a high-level view of the project
 * **/notebooks**: contains the following:
-    * **aws-wildfire-eda-0-step_cl**: EDA to understand the given data
-    * **aws-wildfire-datapreparation-step1**: Processing fire data retrieved from NASA FIRMS
-    * **aws-aus-wildfire-datapreparation-step2**: Extract fire data belonging only to Australia
-    * **aws-aus-data-preparation-step-2-2**: Prepare fire data for ML model, build new features using history data in 2012-2021
-    * **aws-find-weather-stations-and-create-data-step3**: Retrieve weather data from [NCEI NOAA](https://www.ncei.noaa.gov/)
-    * **aws-merge-aus-fire-data-with-weather-step4**: Merge fire readings with weather data
-    * **aws-aus-wildfire-prediction-step5**: Build an ML model for wildfire prediction
+    * [**aws-wildfire-eda-0-step_cl**](./notebooks/aws-wildfire-eda-0-step_cl.ipynb): EDA to understand the given data
+    * [**aws-wildfire-datapreparation-step1_cl**](./notebooks/aws-wildfire-datapreparation-step1_cl.ipynb): Processing fire data retrieved from NASA FIRMS
+    * [**aws-aus-wildfire-datapreparation-step2**](./notebooks/aws-aus-wildfire-datapreparation-step2_cl.ipynb): Extract fire data belonging only to Australia
+    * [**aws-aus-data-preparation-step-2-2**](./notebooks/aws-aus-data-preparation-step-2-2_cl.ipynb): Prepare fire data for ML model, build new features using history data in 2012-2021
+    * [**aws-find-weather-stations-and-create-data-step3**](./notebooks/aws-find-weather-stations-and-create-data-step3_cl.ipynb): Retrieve weather data from [NCEI NOAA](https://www.ncei.noaa.gov/)
+    * [**aws-merge-aus-fire-data-with-weather-step4**](./notebooks/aws-merge-aus-fire-data-with-weather-step4_cl.ipynb): Merge fire readings with weather data
+    * [**aws-aus-wildfire-prediction-step5**](./notebooks/aws-aus-wildfire-prediction-step5_cl.ipynb): Build an ML model for wildfire prediction
 
 
 # Credits
