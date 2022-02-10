@@ -24,6 +24,10 @@ This repo has the following structure:
     * [**aws-aus-wildfire-prediction-step5**](./notebooks/aws-aus-wildfire-prediction-step5_cl.ipynb): Build an ML model for wildfire prediction
 
 
+# Datasets
+
+Prepared datasets are available in Google Drive https://drive.google.com/drive/folders/1VlmC-GZkcpKLQ2oBWQ8cbToB6taYLMk_?usp=sharing
+
 # Credits
 
 <sup>1</sup> Dataset [NCEI NOAA](https://www.ncei.noaa.gov/)National Centers for Environmental Information </br>
