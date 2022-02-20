@@ -11,6 +11,12 @@ The project is to provide first responders, Firefighters, and Firefighting Comma
 
 The notebooks can be used to build and train an ML model that can predict wildfires using history fire readings and weather data. 
 
+# Architecture
+
+<p align="center">
+  <img src="./misc/Arhitecture.png"> 
+</p>
+
 # Structure
 This repo has the following structure:
 * **Wildfire architecture.pdf**: an scheme of the project architecture. It gives a high-level view of the project
